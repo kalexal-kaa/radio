@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Radio
+Exec=radio
+Icon=kaa.kalexal.Radio
+Terminal=false
+Type=Application
+Categories=GTK;
+StartupNotify=true
