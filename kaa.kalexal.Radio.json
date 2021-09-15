@@ -33,9 +33,7 @@
                 {
                     "type" : "git",
                     "url" : "file:///home/alex/Projects/Radio",
-                    "url" : "https://github.com/kalexal-kaa/radio.git",
-                    "tag": "1.0.0",
-                    "commit": ""
+                    "url" : "https://github.com/kalexal-kaa/radio.git"
                 }
             ]
         }
