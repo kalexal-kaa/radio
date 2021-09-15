@@ -32,7 +32,6 @@
             "sources" : [
                 {
                     "type" : "git",
-                    "url" : "file:///home/alex/Projects/Radio",
                     "url" : "https://github.com/kalexal-kaa/radio.git"
                 }
             ]
